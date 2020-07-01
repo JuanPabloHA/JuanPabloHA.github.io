@@ -1,0 +1,14 @@
+---
+title: "MapTemp"
+date: 2020-07-01
+tags: [python, data science, plotly]
+header:
+  image: "/images/perceptron/percept.jpg"
+  excerpt: "Data Wrangling, Data Science, Messy Data"
+  mathjax: "true"
+---
+
+# This is an example
+
+
+{% include map.html %}
