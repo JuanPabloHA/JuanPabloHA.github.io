@@ -1,4 +1,4 @@
-ple---
+---
 title: "Speech Recognition"
 date: 2020-06-30
 tags: [python, keras, speech recognition]
