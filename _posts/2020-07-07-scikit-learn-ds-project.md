@@ -1,9 +1,9 @@
 ---
-title: "Scikit-lear"
+title: "Scikit-learn"
 date: 2020-07-07
 tags: [python, scikit-learn, data science]
 header:
-  image: "/images/SpeechRecognition/scikitlearn.png"
+  image: "/images/SpeechRecognition/scikitlearn.jpeg"
   excerpt: "python, scikit-learn, data science"
   mathjax: "true"
 ---
