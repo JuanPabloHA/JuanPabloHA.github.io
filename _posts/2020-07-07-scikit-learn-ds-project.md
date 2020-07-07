@@ -3,7 +3,7 @@ title: "End-to-end data science project using Scikit-learn"
 date: 2020-07-07
 tags: [python, scikit-learn, data science]
 header:
-  image: "/images/scikitlearn.jpeg"
+  image: "/images/digits.jpg"
   excerpt: "python, scikit-learn, data science"
   mathjax: "true"
 ---
