@@ -1,5 +1,5 @@
 ---
-title: "End-to-end data science project using Scikit-learn"
+title: "Seoul Bike-sharing End-to-end Machine Learning Project"
 date: 2021-02-16
 tags: [python, scikit-learn, data science]
 header:
@@ -7,8 +7,6 @@ header:
   excerpt: "python, scikit-learn, data science"
   mathjax: "true"
 ---
-
-## Seoul Bike-sharing End-to-end Machine Learning Project
 
 In this notebook, I will work through an example of a hypothetical data science project. We will be following the steps that are part of the CRISP-DM methodology:
 
