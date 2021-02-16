@@ -20,7 +20,7 @@ In this notebook, I will work through an example of a hypothetical data science 
 6. Fine-tuning of the model
 7. Conclusion
 
-We will skip the Launch and Monitoring steps. 
+We will skip the Launch and Monitoring steps.[Link to notebook repository](https://github.com/JuanPabloHA/Seoul_Bike_Sharing/blob/main/notebooks/End-to-end.ipynb)  
 
 ## 1. Problem description
 
