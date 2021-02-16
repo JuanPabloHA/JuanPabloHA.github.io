@@ -8,7 +8,6 @@ header:
   mathjax: "true"
 ---
 
-## Hello world!
+## Seoul Bike Sharing
 
-One of the most famous projects in the data science world corresponds to
-the digit recognition problem using the NMIST dataset, for this reason this problem is known as the hellwo world problem of data science. 
+https://github.com/JuanPabloHA/Seoul_Bike_Sharing/blob/main/End-to-end.ipynb
