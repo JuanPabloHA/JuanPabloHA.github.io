@@ -10,4 +10,4 @@ header:
 
 ## Seoul Bike Sharing
 
-https://github.com/JuanPabloHA/Seoul_Bike_Sharing/blob/main/End-to-end.ipynb
+https://github.com/JuanPabloHA/Seoul_Bike_Sharing/blob/main/End-to-end.html
