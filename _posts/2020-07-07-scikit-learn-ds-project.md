@@ -1,6 +1,6 @@
 ---
 title: "End-to-end data science project using Scikit-learn"
-date: 2020-07-07
+date: 2021-02-16
 tags: [python, scikit-learn, data science]
 header:
   image: "/images/digits.jpg"
