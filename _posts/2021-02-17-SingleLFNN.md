@@ -15,7 +15,7 @@ In this example, we present two implementations of the simplest form of neural n
 
 The first classifier is a discrete perceptron, as shown in the figure below. We will use the **discrete perceptron learning rule** with given values for the learning constant **c**, initial weights **w**, and the Threshold Logic Unit (**TLU**) for the activation function. This example's main task is to prove that the final weight vector provides the correct classification for the entire training set.
 
-<img src="discrete.png">
+<img src="{{site.url}}/images/2021-02-17-SingleLFNN_files/discrete.png" style="display: block; margin: auto;" />
 
 
 ```python
@@ -97,8 +97,7 @@ plt.show()
 ```
 
 
-    
-![png](2021-02-17-SingleLFNN_files/2021-02-17-SingleLFNN_6_0.png)
+<img src="{{site.url}}/images/2021-02-17-SingleLFNN_files/2021-02-17-SingleLFNN_6_0.png" style="display: block; margin: auto;" />    
     
 
 
@@ -108,7 +107,7 @@ Looking at the pattern and cycle error shown below, one can observe how, after t
 
 The second example corresponds to a continuous perceptron training as shown in the figure below. The task at hand is to train a perceptron classifier using a **logistic activation function** $f_1(v) = \frac{1}{1+e^{-v}}$ and the **delta learning rule** with a learning constant **c = 0.2**. The parameters **x** and weights **w** remain unchanged.
 
-<img src="cont.png">
+<img src="{{site.url}}/images/2021-02-17-SingleLFNN_files/cont.png" style="display: block; margin: auto;" />    
 
 
 ```python
@@ -188,7 +187,5 @@ ax.set_title('Cycle Error')
 
 
 
-    
-![png](2021-02-17-SingleLFNN_files/2021-02-17-SingleLFNN_13_1.png)
-    
+<img src="{{site.url}}/images/2021-02-17-SingleLFNN_files/2021-02-17-SingleLFNN_13_1.png" style="display: block; margin: auto;" />       
 
