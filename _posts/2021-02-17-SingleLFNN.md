@@ -7,8 +7,6 @@ header:
   mathjax: "true"
 ---
 
-# Single layer feedforward neural network
-
 In this example, we present two implementations of the simplest form of neural networks, the **single-layer feedforward neural network**. First, we introduce the discrete perceptron classifier, and then the continuous perceptron classifier.
 
 ## 1. Discrete perceptron training
